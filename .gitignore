@@ -1,0 +1,6 @@
+# Files Git should never upload to GitHub.
+# One pattern per line. Lines starting with # are comments.
+# A name ending in / means "this whole folder".
+
+.claude/
+.env
